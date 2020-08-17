@@ -512,6 +512,10 @@ a {
   fill: var(--social-links-color);
 }
 
+.clients-list-item-link:hover {
+  border-color: var(--accent-color);
+}
+
 .clients-list-item-link:hover .clients-list-item-link-svg {
   fill: var(--accent-color);
 }
